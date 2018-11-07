@@ -6,8 +6,8 @@
    Case Problem 1
    
    Star Dust Stories Design Styles
-   Author: 
-   Date:      
+   Author: Millione Johnson
+   Date:  9/6/18    
 
    Filename: sd_effects.css
 
@@ -15,10 +15,18 @@
 
 /* HTML Styles */
 
+html {
+    background: url(sd_back1.png) fixed;
+    background-size: 100%;
+}
 
 
 /* Body Styles */
 
+body {
+    background-image: url(sd_back2.png);
+    background:radial-gradient(circle closest-corner at 40% 70%, white 15%, rgba(151, 151, 151, 0.5) 50%);
+}
 
 
 
