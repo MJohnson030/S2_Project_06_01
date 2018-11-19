@@ -20,7 +20,7 @@ html {
     background-size: 100%;
 }
 
-
+/* Set a background image to cover 100 percent of the html background. */
 /* Body Styles */
 
 body {
@@ -31,6 +31,8 @@ body {
 
 }
 
+/* Set a background image for the body. A radial gradient was also added as a layer with the colors
+white and gray. Added a box shadow around the body. */
 
      
  
@@ -59,6 +61,10 @@ section#left h1 {
 
 }
 
+/* In the navigation, an outset border was set at five pixels. An h1 element with an id of left was set to a
+text color of light blue. A small text shadow was set around the text. an image with an id of mportrait 
+has filter applied. The filter creates a dark grey drop shadow and adds other filters such as grayscale
+and opacity. The image is flipped 180 degrees using the transform property. */
 
 
 
